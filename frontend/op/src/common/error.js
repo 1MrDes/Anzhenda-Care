@@ -1,0 +1,9 @@
+
+export const ERROR_REALNAME_AUTH_REQUIRED = 49;    // 需实名认证
+export const ERROR_SUBSCRIBE_MP_REQUIRED = 50;    // 需关注公众号
+
+export const ERROR_SHORT_VIEW_WXID_AMOUNT = 10;
+export const ERROR_VIEW_WXID_WAIT_AUDIT = 14;
+export const ERROR_SHORT_VIEW_PHONE_NUMBER = 11;
+export const ERROR_VIEW_PHONE_WAIT_AUDIT = 13;
+export const ERROR_ACTIVITY_APPLY_WAIT_PAY = 12;

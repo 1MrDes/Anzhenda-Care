@@ -1,0 +1,19 @@
+#!/usr/bin/env php
+<?php
+namespace think;
+
+// 命令行入口文件
+
+define('DOC_PATH', __DIR__ . '/');
+define('APP_PATH', __DIR__ . '/app/');
+define('EXTEND_PATH', __DIR__ . '/../../extend/');
+define('VENDOR_PATH', __DIR__ . '/../../vendor/');
+define('WWW_PATH', __DIR__ . '/public/');
+
+// 加载基础文件
+require __DIR__ . '/../../vendor/autoload.php';
+
+// 应用初始化
+$app = new App(__DIR__ . '/');
+//$app->setNamespace('apps\health_assist\app\op');
+$app->console->run();

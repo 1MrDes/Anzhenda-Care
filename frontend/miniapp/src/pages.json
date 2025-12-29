@@ -1,0 +1,301 @@
+{
+	"pages": [
+		{
+			"path": "pages/health_service/index",
+			"style": {
+				"enablePullDownRefresh": false
+			}
+		}
+		,{
+		    "path" : "pages/web/page",
+		    "style" :                                                                                    
+		    {
+		        "enablePullDownRefresh": false
+		    }
+		}
+		,{
+		    "path" : "pages/jump/index",
+		    "style" :                                                                                    
+		    {
+		        "enablePullDownRefresh": false
+		    }
+		}
+		,{
+		    "path" : "pages/my/message/index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "消息",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/my/setting/index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "设置",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/my/about/about",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "关于我们",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/my/contact_us/contact_us",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "联系我们",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+			"path": "pages/index/index",
+			"style": {
+				"enablePullDownRefresh": false
+			}
+		}
+		,{
+			"path": "pages/user/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+		}
+		,{
+		    "path" : "platforms/mp-weixin/pages/user/login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "登录",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "platforms/mp-alipay/pages/user/login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+			"path": "pages/my/index",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false
+			}
+		}
+		,{
+		    "path" : "pages/article/index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/article/info",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/health_service/detail",
+		    "style" :                                                                                    
+		    {
+		        "enablePullDownRefresh": false
+		    }
+		}
+		,{
+		    "path" : "pages/health_hospital/select",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "选择医院",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/health_hospital/index",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "医院",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/health_hospital/info",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "医院详情",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/health_hospital/labs",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "科室",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+			"path": "pages/order/index",
+			"style": {
+				"navigationBarTitleText": "订单",
+				"enablePullDownRefresh": true
+			}
+		}
+		,{
+		    "path" : "pages/order/buy",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "下单",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/order/detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单详情",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/health_assistant/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "陪诊师",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/realname_verify/apply",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "实名认证",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/withdraw_cash/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "提现",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/health_assistant/order/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "陪诊师订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/health_assistant/order/detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "陪诊师订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/wallet/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "钱包",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/consignee/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "收货地址",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/consignee/form",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "收货地址",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/health_assistant/order/ship",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "发货",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "知心陪诊",
+		"navigationBarBackgroundColor": "#33b5bd",
+		"backgroundColor": "#F8F8F8"
+	},
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+		}
+	},
+	"tabBar": {
+		"color": "#8a8a8a",
+		"selectedColor": "#33b5bd",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/health_service/index",
+				"iconPath": "static/images/ic-tabbar-service-inactive.png",
+				"selectedIconPath": "static/images/ic-tabbar-service-active.png",
+				"text": "服务"
+			},
+			{
+				"pagePath": "pages/order/index",
+				"iconPath": "static/images/ic-tabbar-order-inactive.png",
+				"selectedIconPath": "static/images/ic-tabbar-order-active.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/my/index",
+				"iconPath": "static/images/ic-tabbar-my-inactive.png",
+				"selectedIconPath": "static/images/ic-tabbar-my-active.png",
+				"text": "我的"
+			}
+		]
+	}
+}
